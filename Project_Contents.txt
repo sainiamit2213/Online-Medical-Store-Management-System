@@ -1,0 +1,22 @@
+In Brief Our Project Contents:
+
+
+1. Created an ER model for the project
+2. Designed Relational model
+3. Applied Normalisation on it
+4. Created Database for it using SQL
+5. Demonstrated DDL, DML, DCL, TCL on above database
+6. Applied all constraints on it like Primary key, Foreign key, Unique, Check etc
+7. Demonstrated all String, Numeric, Date function on above database
+8. Demonstrated all join operations like Cartesian, Natural, Outer join
+9. Demonstrated GROUP BY,HAVING, ORDER BY, LIKE, IN, BETWEEN, CREATE AS,
+   TAB, USER_CONSTRAINTS
+10. Demonstrated Nested query and its types on it
+11. Created Sequence and inserted values in above database through it
+12. Created various INDEXES for above database
+13. Created Stored Procedure for some operations
+14. Validated insert, update, delete operation on above database through various types of
+Triggers
+15. Demonstrated Implicit and Explicit Cursors for above database
+16. Created Packages to insert, delete, search, traverse, update records in above
+database. 
